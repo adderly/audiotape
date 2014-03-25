@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Audiotape
+Comment=My project description
+Exec=qmlscene $@ ./app/Audiotape.qml
+Icon=./app/img/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Name[it_IT]=Audiotape

@@ -1,0 +1,15 @@
+{
+    "architecture": "armhf",
+    "description": "An audio recorder for Ubuntu Touch",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "Audiotape": {
+            "apparmor": "Audiotape.json",
+            "desktop": "Audiotape.desktop"
+        }
+    },
+    "maintainer": "Stefano Verzegnassi",
+    "name": "com.ubuntu.developer.verzegnassi.audiotape",
+    "title": "Audiotape",
+    "version": "0.1"
+}
